@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ch2.Task5Spec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ch2.Task1Spec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ch2.Task2Spec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ch2.Task3Spec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mTask2Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized random integer generator without seed should behave differently from non-memoized one(non-pure function)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task2Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 174 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask3Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized random integer generator with seed should behave exacly like the non-memoized one(pure function)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task3Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 174 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask5Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m truth[0m
+[0m[[0m[0minfo[0m] [0m[0m      false[0m
+[0m[[0m[0minfo[0m] [0m[0m      nothingness[0m
+[0m[[0m[0minfo[0m] [0m[0m      identity[0m
+[0m[[0m[0minfo[0m] [0m[0m      opposite[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task5Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 181 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask1Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized should run faster than nom Memoized func[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task1Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 3 seconds, 161 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for specs2 not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 4, Failed 0, Errors 0, Passed 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ch2.Task2Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ch2.Task1Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ch2.Task3Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ch2.Task5Spec[0m

@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(71d359f7-cb1a-4cd5-a800-51b65b686539), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /Users/stefanos.stefanou/Desktop/repos/Category-Theory-For-Programmers-Challenges/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.8. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 7.334s.[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 4 Scala sources to /Users/stefanos.stefanou/Desktop/repos/Category-Theory-For-Programmers-Challenges/target/scala-2.13/test-classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 deprecations (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mTask2Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized random integer generator without seed should behave differently from non-memoized one(non-pure function)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task2Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 174 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask3Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized random integer generator with seed should behave exacly like the non-memoized one(pure function)[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task3Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 174 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask5Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m truth[0m
+[0m[[0m[0minfo[0m] [0m[0m      false[0m
+[0m[[0m[0minfo[0m] [0m[0m      nothingness[0m
+[0m[[0m[0minfo[0m] [0m[0m      identity[0m
+[0m[[0m[0minfo[0m] [0m[0m      opposite[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task5Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 181 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTask1Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m      [32m+[0m Memoized should run faster than nom Memoized func[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification Task1Spec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 3 seconds, 161 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 4, Failed 0, Errors 0, Passed 4[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 16 s, completed 8 Sep 2022, 13:38:50[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
