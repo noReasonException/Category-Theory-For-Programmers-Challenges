@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(clean, Some(cafe6b85-8ee8-4c9d-960e-7cfd69a06f2b), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: clean[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 8 Sep 2022, 13:38:34[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
